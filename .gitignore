@@ -1,0 +1,10 @@
+﻿**/.env
+**/venv/
+**/node_modules/
+**/__pycache__/
+backend/uploads/
+frontend/dist/
+*.sql
+*.dump
+*.log
+backend/reset_admin.py
